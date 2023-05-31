@@ -1,3 +1,6 @@
+import { randint } from './lib'
+
+export
 type kittenChar = character
 
 interface charStyle {
@@ -16,6 +19,7 @@ interface charPen {
 }
 
 class character {
+    id :string = randint(10e20).toString(16)
     name: string
     type: 'background' | 'character' | 'clone'
     isclone: boolean = false
