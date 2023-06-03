@@ -12,7 +12,7 @@
 ---
 | 名称 | 介绍 | 值 |
 | ---- | ---- | ---- |
-| size | 屏幕长宽 | {width: `<number>`, height:` <number>`} | 
+| size | 屏幕长宽 | `{ width: <number>, height: <number>}` | 
 | type | 暂无 | `1` | 
 | project_name | 作品名 | `<string>` | 
 | preview | 作品预览 | `https//creation.codemao.cn/445/kitten/(dase64)` | 
@@ -43,7 +43,7 @@
 | midimusic | 启用 MIDI |
 | mobile_control | 虚拟按键 |
 | physics | 物理模块 |
-| physics2 | 不明 |
+| physics2 | `（不明）` |
 | video | 视频模块 |
 | wood | 海龟（Kitten Server）|
 
