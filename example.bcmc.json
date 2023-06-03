@@ -74,8 +74,8 @@
             "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
                 "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
                 "name": "",
-                "url": "https://static.codemao.cn/program%252Fide%25 ...img",
-                "cdn_url": "https://static.codemao.cn/program%252Fide%25 ...imgg",
+                "url": "https://static.codemao.cn/program%252Fide%25...img",
+                "cdn_url": "https://static.codemao.cn/program%252Fide%25...imgg",
                 "rotate_center": {
                     "x": 0,
                     "y": 0
@@ -123,11 +123,11 @@
     "variables": {
         "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
             "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-            "type": "list | any",
+            "type": "list|any",
             "is_global": true,
             "scale": 1,
             "visible": true,
-            "theme": "common | color",
+            "theme": "common|color",
             "value": [],
             "name": "",
             "offset": {
