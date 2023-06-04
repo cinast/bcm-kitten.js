@@ -1,23 +1,4 @@
-> *@Document version`Kitten4.11.8`* 
-
-### **const** 常量参数
----
-| 名称 | 介绍 | 值 | 
-| ---- | ---- | ---- | 
-| version | 暂无 | `25` | 
-| application_version | 剪辑器版本 | `"4.11.8"` | 
-| work_type | 作品类型标识 | `"KITTEN"` | 
-
-### **config** 配置
----
-| 名称 | 介绍 | 值 |
-| ---- | ---- | ---- |
-| size | 屏幕长宽 | {width: `<number>`, height:` <number>`} | 
-| type | 暂无 | `1` | 
-| project_name | 作品名 | `<string>` | 
-| preview | 作品预览 | `https//creation.codemao.cn/445/kitten/(dase64)` | 
-| author_nickname | 作者名称 | `<string>` | 
-
+> *@Document version`Kitten4.11.8`*
 
 ### **toolbox** 使用积木扩展库
 >以下参值如果没有标注，均为 Boolean 类型
@@ -46,7 +27,3 @@
 | physics2 | 不明 |
 | video | 视频模块 |
 | wood | 海龟（Kitten Server）|
-
-### **main** 主要构成
-
-### **other** 其他参数

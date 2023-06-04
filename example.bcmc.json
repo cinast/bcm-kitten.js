@@ -1,187 +1,187 @@
 {
-    "version": 25,
-    "application_version": "4.11.8",
-    "work_type": "KITTEN",
-    "size": {
-        "width": 0,
-        "height": 0
-    },
-    "type": 1,
-    "project_name": "",
-    "theatre": {
-        "current_entity": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-        "current_scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-        "scenes_order": [
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-        ],
-        "scenes": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
-                "styles": [
-                    "a1b05e27-ca18-41e0-8668-9f5073c0f8dc"
-                ],
-                "actors": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-                ],
-                "x": 0,
-                "y": 0,
-                "scale": 100,
-                "rotation": 0,
-                "rotation_type": 0,
-                "draggable": false,
-                "group_order": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-                ],
-                "workspace_offset": {
-                    "x": 0,
-                    "y": 0
-                },
-                "name": "背景调用",
-                "current_style_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "screen_name": "139",
-                "visible": false
-            }
-        },
-        "actors": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "name": "",
-                "x": 0,
-                "y": 0,
-                "scale": 100,
-                "rotation": 0,
-                "rotation_type": 0,
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "draggable": false,
-                "lock": false,
-                "user_change_r_c": false,
-                "scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "editable_in_tuition_mode": true,
-                "workspace_offset": {
-                    "x": 100,
-                    "y": 50
-                },
-                "styles": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-                ],
-                "current_style_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "visible": false
-            }
-        },
-        "videos": {},
-        "styles": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "name": "",
-                "url": "https://static.codemao.cn/program%252Fide%25...img",
-                "cdn_url": "https://static.codemao.cn/program%252Fide%25...imgg",
-                "rotate_center": {
-                    "x": 0,
-                    "y": 0
-                },
-                "pivot": {
-                    "x": 0,
-                    "y": 0
-                }
-            },
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "name": "新角色",
-                "url": "https://creation.codemao.cn/445/(dase64)",
-                "cdn_url": "https://creation.codemao.cn/445/(dase64)",
-                "rotate_center": {
-                    "x": 0,
-                    "y": 0
-                },
-                "pivot": {
-                    "x": 0,
-                    "y": 0
-                },
-                "rotate_center_painter": {
-                    "x": 0,
-                    "y": 0
-                }
-            }
-        },
-        "style_collections": {},
-        "groups": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "name": "",
-                "is_fold": false,
-                "is_group": false,
-                "actors": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-                ],
-                "scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                "visible": true
-            }
-        },
-        "timer": {}
-    },
-    "variables": {
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-            "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-            "type": "list|any",
-            "is_global": true,
-            "scale": 1,
-            "visible": true,
-            "theme": "common|color",
-            "value": [],
-            "name": "",
-            "offset": {
-                "x": 0,
-                "y": 0
-            },
-            "position": {
-                "x": 0,
-                "y": 0
-            }
-        }
-    },
-    "variable_order": [
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-    ],
-    "cloud_variables": {},
-    "audio": {},
-    "audio_order": [],
-    "midimusic": [],
-    "midi_order": [],
-    "matrix": {},
-    "models": {},
-    "toolbox": {
-        "lang": false,
-        "cellphone": false,
-        "pen": false,
-        "advanced": true,
-        "ai_lab": false,
-        "block_ai_classification": false,
-        "block_ai_game": false,
-        "block_hardware_arduino": false,
-        "block_hardware_microbit": false,
-        "block_hardware_weeemake": false,
-        "camera": false,
-        "cloud_list": false,
-        "cloud_variable": false,
-        "cognitive": false,
-        "current_type": "procedure",
-        "midimusic": false,
-        "mobile_control": false,
-        "physics": false,
-        "physics2": false,
-        "video": false,
-        "wood": false
-    },
-    "hardware_type": "",
-    "is_partial": false,
-    "compile_result": [],
-    "ai_lab": {},
-    "broadcasts": {
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": [
-            "..."
-        ]
-    },
-    "preview": "https://creation.codemao.cn/445/kitten/(dase64)",
-    "author_nickname": ""
+"version":25,
+"application_version":"4.11.8",
+"work_type":"KITTEN",
+"size":{
+"width":0,
+"height":0
+},
+"type":1,
+"project_name":"",
+"theatre":{
+"current_entity":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"current_scene":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"scenes_order":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"scenes":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"id":"b5e60282-a2d1-478b-802d-a30e77d67e6b",
+"styles":[
+"a1b05e27-ca18-41e0-8668-9f5073c0f8dc"
+],
+"actors":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"x":0,
+"y":0,
+"scale":100,
+"rotation":0,
+"rotation_type":0,
+"draggable":false,
+"group_order":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"workspace_offset":{
+"x":0,
+"y":0
+},
+"name":"背景调用",
+"current_style_id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"screen_name":"139",
+"visible":false
+}
+},
+"actors":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"name":"",
+"x":0,
+"y":0,
+"scale":100,
+"rotation":0,
+"rotation_type":0,
+"id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"draggable":false,
+"lock":false,
+"user_change_r_c":false,
+"scene":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"editable_in_tuition_mode":true,
+"workspace_offset":{
+"x":100,
+"y":50
+},
+"styles":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"current_style_id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"visible":false
+}
+},
+"videos":{},
+"styles":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"name":"",
+"url":"https://static.codemao.cn/program%252Fide%25...img",
+"cdn_url":"https://static.codemao.cn/program%252Fide%25...imgg",
+"rotate_center":{
+"x":0,
+"y":0
+},
+"pivot":{
+"x":0,
+"y":0
+}
+},
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"name":"新角色",
+"url":"https://creation.codemao.cn/445/(dase64)",
+"cdn_url":"https://creation.codemao.cn/445/(dase64)",
+"rotate_center":{
+"x":0,
+"y":0
+},
+"pivot":{
+"x":0,
+"y":0
+},
+"rotate_center_painter":{
+"x":0,
+"y":0
+}
+}
+},
+"style_collections":{},
+"groups":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"name":"",
+"is_fold":false,
+"is_group":false,
+"actors":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"scene":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"visible":true
+}
+},
+"timer":{}
+},
+"variables":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":{
+"id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+"type":"list|any",
+"is_global":true,
+"scale":1,
+"visible":true,
+"theme":"common|color",
+"value":[],
+"name":"",
+"offset":{
+"x":0,
+"y":0
+},
+"position":{
+"x":0,
+"y":0
+}
+}
+},
+"variable_order":[
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+],
+"cloud_variables":{},
+"audio":{},
+"audio_order":[],
+"midimusic":[],
+"midi_order":[],
+"matrix":{},
+"models":{},
+"toolbox":{
+"lang":false,
+"cellphone":false,
+"pen":false,
+"advanced":true,
+"ai_lab":false,
+"block_ai_classification":false,
+"block_ai_game":false,
+"block_hardware_arduino":false,
+"block_hardware_microbit":false,
+"block_hardware_weeemake":false,
+"camera":false,
+"cloud_list":false,
+"cloud_variable":false,
+"cognitive":false,
+"current_type":"procedure",
+"midimusic":false,
+"mobile_control":false,
+"physics":false,
+"physics2":false,
+"video":false,
+"wood":false
+},
+"hardware_type":"",
+"is_partial":false,
+"compile_result":[],
+"ai_lab":{},
+"broadcasts":{
+"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx":[
+"..."
+]
+},
+"preview":"https://creation.codemao.cn/445/kitten/(dase64)",
+"author_nickname":""
 }
