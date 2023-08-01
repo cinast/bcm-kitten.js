@@ -1,19 +1,39 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>BCM-KITTEN.JS RESULT</title>
-    <style>  
-      body {
-        margin: 10;
-      }
-    </style>
-  </head>
-  <script>
 
-  </script>
-  <body onload="">
-    <p>BCM-KITTEN.JS RESULT:</p>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BCM-KITTEN.JS RESULT</title>
+  <style>
+    body {
+      margin: 10;
+    }
+  </style>
+</head>
+<script src="./main.js"></script>
+<script>
+  function getRunResult(){
+    // 在下方书写 bcm-kitten.js/main.js 的源码:
+
+    // 将结果赋值给 run_result , 即可在 index.html 中显示
+    var run_result = ;
+    return run_result; 
+  }
+</script>
+<script>
+  function load(){ 
+    console.log("Hello world! (with KITTEN 4.1.19)");
+    var run_result_inhtml = document.createElement('p');
+    run_result_inhtml.innerHTML = getRunResult();
+    console.log("RUN RESULT:"+run_result_inhtml.innerHTML)
+    document.body.appendChild(run_result_inhtml)
+  }
+</script>
+
+<body onload="load()">
+  <p>You are using it with KITTEN 4.0!</p>
+  <p>BCM-KITTEN.JS RESULT:</p>
+</body>
+
 </html>
