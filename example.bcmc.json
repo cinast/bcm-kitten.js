@@ -9,20 +9,20 @@
     "type": 1,
     "project_name": "",
     "theatre": {
-        "current_entity": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-        "current_scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "current_entity": "",
+        "current_scene": "",
         "scenes_order": [
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+            ""
         ],
         "scenes": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "": {
+                "id": "",
                 "styles": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+                    ""
                 ],
                 "actors": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+                    "",
+                    ""
                 ],
                 "x": 0,
                 "y": 0,
@@ -31,48 +31,48 @@
                 "rotation_type": 0,
                 "draggable": false,
                 "group_order": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+                    "",
+                    ""
                 ],
                 "workspace_offset": {
                     "x": 0,
                     "y": 0
                 },
                 "name": "",
-                "current_style_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+                "current_style_id": "",
                 "screen_name": "",
                 "visible": false
             }
         },
         "actors": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
+            "": {
                 "name": "",
                 "x": 0,
                 "y": 0,
                 "scale": 100,
                 "rotation": 0,
                 "rotation_type": 0,
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+                "id": "",
                 "draggable": false,
                 "lock": false,
                 "user_change_r_c": false,
-                "scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+                "scene": "",
                 "editable_in_tuition_mode": true,
                 "workspace_offset": {
                     "x": 100,
                     "y": 50
                 },
                 "styles": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+                    ""
                 ],
-                "current_style_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+                "current_style_id": "",
                 "visible": false
             }
         },
         "videos": {},
         "styles": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "": {
+                "id": "",
                 "name": "",
                 "url": "https://static.codemao.cn/program%252Fide%25...img",
                 "cdn_url": "https://static.codemao.cn/program%252Fide%25...imgg",
@@ -85,8 +85,8 @@
                     "y": 0
                 }
             },
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "": {
+                "id": "",
                 "name": "新角色",
                 "url": "https://creation.codemao.cn/445/(dase64)",
                 "cdn_url": "https://creation.codemao.cn/445/(dase64)",
@@ -106,23 +106,23 @@
         },
         "style_collections": {},
         "groups": {
-            "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-                "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "": {
+                "id": "",
                 "name": "",
                 "is_fold": false,
                 "is_group": false,
                 "actors": [
-                    "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+                    ""
                 ],
-                "scene": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+                "scene": "",
                 "visible": true
             }
         },
         "timer": {}
     },
     "variables": {
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": {
-            "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "": {
+            "id": "",
             "type": "list|any",
             "is_global": true,
             "scale": 1,
@@ -141,7 +141,7 @@
         }
     },
     "variable_order": [
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+        ""
     ],
     "cloud_variables": {},
     "audio": {},
@@ -178,7 +178,7 @@
     "compile_result": [],
     "ai_lab": {},
     "broadcasts": {
-        "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx": [
+        "": [
             "..."
         ]
     },
