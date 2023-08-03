@@ -1,5 +1,5 @@
 /**
- * not official api
+ * **not official** api  
  * just for fun *(\*laugh\*)*
  * 
  * @version `4.11.8`
@@ -9,18 +9,10 @@ export module kitten {
     /**
      * a kitten project
      */
-    const project = {
-
-    }
     class Project {
-
         /**
-         * 作用未知，不开放
-         */
-        readonly version = 25
-
-        /**
-         * 使用kitten版本
+         * 使用kitten版本  
+         * 不允许创建后更改
          */
         readonly application_version = "4.11.8"
 
@@ -38,73 +30,78 @@ export module kitten {
         }
 
         /**
-         * 作用未知，不开放
-         */
-        readonly type: 1
-
-        /**
          * 作品名
          */
         project_name: string = ""
 
         /**
-         * 屏幕（舞台）
+         * 屏幕集合（舞台）
          */
-        theatre: {
+        theatre = {
             /**
-             * 尚不明确作用
+             * 当前屏幕
              */
-            current_entity: ""
-
-            current_scene: ""
-            scenes_order: []
-            scenes: {}
+            current_scene: "",
+            /**
+             * 屏幕uuid集合
+             */
+            scenes: []
         }
+        /**
+         * 角色列表
+         */
         actors: {}
-        videos: {}
-        styles: {}
-        style_collections: {}
-        groups: {}
-        timer: {}
-
-        variables: {}
-        variable_order: []
-        cloud_variables: {}
-        audio: {}
-        audio_order: []
-        midimusic: []
-        midi_order: []
-        matrix: {}
-        models: {}
-        toolbox: {
-            lang: false
-            cellphone: false
-            pen: false
-            advanced: true
-            ai_lab: false
-            block_ai_classification: false
-            block_ai_game: false
-            block_hardware_arduino: false
-            block_hardware_microbit: false
-            block_hardware_weeemake: false
-            camera: false
-            cloud_list: false
-            cloud_variable: false
-            cognitive: false
-            current_type: procedure
-            midimusic: false
-            mobile_control: false
-            physics: false
-            physics2: false
-            video: false
-            wood: false
-        }
-        hardware_type: ""
-        is_partial: false
-        compile_result: []
-        ai_lab: {}
-        broadcasts: {}
-        preview: "https://creation.codemao.cn/445/kitten/(dase64)"
-        author_nickname: ""
+        // /**
+        //  * 视频集合
+        //  */
+        // videos: {}
+        // /**
+        //  * 角色造型
+        //  */
+        // styles: {}
+        // style_collections: {}
+        // variables: {}
+        // cloud_variables: {}
+        // audio: {}
+        // midimusic: []
+        // broadcasts: {}
+        // author_nickname: string = ""
     }
+    class Character {
+        /**
+         * 名称
+         */
+        name: string = ""
+        /**
+         * 坐标x
+         */
+        x: number = 0
+        /**
+         * 坐标y
+         */
+        y: number = 0
+        /**
+         * 大小
+         */
+        scale: number = 100
+        /**
+         * 旋转
+        */
+        rotation: number = 0
+        rotation_type: number = 0
+        id: string = ""
+        draggable: boolean = false
+        lock: boolean = false
+        scene: ""
+        workspace_offset = {
+            "x": 0,
+            "y": 0
+        }
+        styles: []
+        current_style_id: ""
+        visible: false
+    }
+
+
 }
+import "../73.x.ts"

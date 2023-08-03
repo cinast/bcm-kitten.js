@@ -1,15 +1,15 @@
 /**
-*@param{number}min
-*@param{number}[max=min]
-*@returns{number}
-*/
+ *@param{number}min
+ *@param{number}[max=min]
+ *@returns{number}
+ */
 function randint(min, max) {
-    returnMath.floor(Math.random() * (max - min + 1)) + min;
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
 /**
-*@returns{string}
-*/
+ *@returns{string}
+ */
 function randomId() {
     function r() {
         return Math.floor((1 + Math.random()) * 0x10000)
@@ -17,6 +17,5 @@ function randomId() {
             .substring(1);
     }
     return `${r()}${r()}-${r()}-${r()}-${r()}-${r()}${r()}${r()}`;
-
 }
-export { randint, randomId }
+export { randint, randomId };
