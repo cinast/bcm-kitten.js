@@ -5,8 +5,8 @@
 ---
 | 名称 | 介绍 |
 | ---- | ---- |
-| lang | 暂无 |
-| cellphone | 暂无 |
+| lang | *暂无* |
+| cellphone | *暂无* |
 | pen | 画笔 |
 | advanced | 是否启用积木扩展 |
 | ai_lab | 分类 AI |
