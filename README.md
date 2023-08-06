@@ -36,6 +36,6 @@ requests.get(url)
 
 ## 合作
 ### 我是开发者
-进入 github 页面，开发后提交 pull request 与 issue
+提交 pull request 与 issue
 ### 我是使用者
 提交 issue ，提出建议
