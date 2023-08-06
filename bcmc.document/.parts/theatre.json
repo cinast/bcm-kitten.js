@@ -1,0 +1,261 @@
+{"theatre": {
+    "current_entity": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+    "current_scene": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+    "scenes_order": [
+        "b5e60282-a2d1-478b-802d-a30e77d67e6b"
+    ],
+    "scenes": {
+        "b5e60282-a2d1-478b-802d-a30e77d67e6b": {
+            "id": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+            "name": "背景",
+            "actors": [
+                "a6a2046b-27b2-418e-b88d-30c8070a05b9",
+                "a502ba73-658b-4363-aa20-a8f2961d03ad"
+            ],
+            "x": 0,
+            "y": 0,
+            "scale": 100,
+            "rotation": 0,
+            "rotation_type": 0,
+            "draggable": false,
+            "visible": true,
+            "screen_name": "屏幕",
+            "group_order": [
+                "b2416e06-f8a3-45a8-9a96-5e04f6a3218c",
+                "32eac34d-ee3f-4268-9d11-378113d57c35"
+            ],
+            "workspace_offset": {
+                "x": 194,
+                "y": 68
+            },
+            "styles": [
+                "d8679b2b-1974-4585-a195-ecfcd4dea214",
+                "22d0368d-cf19-4039-b51e-2b2fcc0b6913",
+                "1cc0d1ac-701b-4e6f-9348-3079b6f9885a"
+            ],
+            "current_style_id": "d8679b2b-1974-4585-a195-ecfcd4dea214"
+        }
+    },
+    "actors": {
+        "a6a2046b-27b2-418e-b88d-30c8070a05b9": {
+            "scale": 96.72806971358581,
+            "rotation": 0,
+            "rotation_type": 0,
+            "id": "a6a2046b-27b2-418e-b88d-30c8070a05b9",
+            "visible": true,
+            "draggable": false,
+            "scene": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+            "current_style_id": "85b970e6-f5f9-4c10-bae6-192e2a19d499",
+            "styles": [
+                "103f83da-6628-4201-86d9-b709e3856538",
+                "d7600d26-54fd-4e51-81a3-c2b6545e4006",
+                "77ae2c51-5d10-4f3a-82b0-968cdb257695",
+                "26544bb0-6e6f-4278-97e8-59a657381b0a",
+                "85b970e6-f5f9-4c10-bae6-192e2a19d499"
+            ],
+            "lock": false,
+            "editable_in_tuition_mode": true,
+            "user_change_r_c": false,
+            "workspace_offset": {
+                "x": 46.9999885559082,
+                "y": 82
+            },
+            "name": "角色1",
+            "y": 100,
+            "x": 100
+        },
+        "a502ba73-658b-4363-aa20-a8f2961d03ad": {
+            "id": "a502ba73-658b-4363-aa20-a8f2961d03ad",
+            "current_style_id": "fbe412ee-5595-4423-b6e2-ecd1c7e5937d",
+            "styles": [
+                "fbe412ee-5595-4423-b6e2-ecd1c7e5937d"
+            ],
+            "scale": 100,
+            "rotation": 0,
+            "rotation_type": 0,
+            "draggable": false,
+            "visible": true,
+            "lock": false,
+            "user_change_r_c": false,
+            "scene": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+            "editable_in_tuition_mode": true,
+            "workspace_offset": {
+                "x": 0,
+                "y": 0
+            },
+            "name": "角色2",
+            "x": 200,
+            "y": 200
+        }
+    },
+    "videos": {},
+    "styles": {
+        "103f83da-6628-4201-86d9-b709e3856538": {
+            "id": "103f83da-6628-4201-86d9-b709e3856538",
+            "name": "编程猫跳跳(1)",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzE5NF9mMGY4ZWNhMQ==",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzE5NF9mMGY4ZWNhMQ==",
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "d7600d26-54fd-4e51-81a3-c2b6545e4006": {
+            "id": "d7600d26-54fd-4e51-81a3-c2b6545e4006",
+            "name": "编程猫跳跳(2)",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzM4NF80MTZiMjMzNQ==",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzM4NF80MTZiMjMzNQ==",
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "77ae2c51-5d10-4f3a-82b0-968cdb257695": {
+            "id": "77ae2c51-5d10-4f3a-82b0-968cdb257695",
+            "name": "编程猫跳跳(3)",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzU2Nl82NzM0YWQ5OQ==",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzU2Nl82NzM0YWQ5OQ==",
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "26544bb0-6e6f-4278-97e8-59a657381b0a": {
+            "id": "26544bb0-6e6f-4278-97e8-59a657381b0a",
+            "name": "编程猫跳跳(4)",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4Nzc0OF9mZmU1MGZmMw==",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4Nzc0OF9mZmU1MGZmMw==",
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "85b970e6-f5f9-4c10-bae6-192e2a19d499": {
+            "id": "85b970e6-f5f9-4c10-bae6-192e2a19d499",
+            "name": "编程猫跳跳(5)",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzkzOF8yMTA3YzgwYg==",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMjAzNTc3XzBfMTYwNzkxMTU4NzkzOF8yMTA3YzgwYg==",
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fbe412ee-5595-4423-b6e2-ecd1c7e5937d": {
+            "id": "fbe412ee-5595-4423-b6e2-ecd1c7e5937d",
+            "name": "新角色",
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODE1NTY5X2UyYTE0YmM5",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODE1NTY5X2UyYTE0YmM5",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "pivot": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "d8679b2b-1974-4585-a195-ecfcd4dea214": {
+            "id": "d8679b2b-1974-4585-a195-ecfcd4dea214",
+            "name": "造型1",
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODE1NTcwX2YzNjM5ODE2",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODE1NTcwX2YzNjM5ODE2",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "adaptive": true,
+            "pivot": {
+                "x": 0,
+                "y": 0
+            },
+            "rotate_center_painter": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "22d0368d-cf19-4039-b51e-2b2fcc0b6913": {
+            "id": "22d0368d-cf19-4039-b51e-2b2fcc0b6913",
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODM1Mzk5XzRhNmIwYmUy",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODM1Mzk5XzRhNmIwYmUy",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "adaptive": true,
+            "pivot": {
+                "x": 0,
+                "y": 0
+            },
+            "rotate_center_painter": {
+                "x": 0,
+                "y": 0
+            },
+            "name": "造型2"
+        },
+        "1cc0d1ac-701b-4e6f-9348-3079b6f9885a": {
+            "id": "1cc0d1ac-701b-4e6f-9348-3079b6f9885a",
+            "name": "造型3",
+            "url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODY2MzMwXzMyNGQ2NjVl",
+            "cdn_url": "https://creation.codemao.cn/445/kitten/d2ViXzIwMDJfMTc2ODkyNTNfMF8xNjkwODk0ODY2MzMwXzMyNGQ2NjVl",
+            "rotate_center": {
+                "x": 0,
+                "y": 0
+            },
+            "adaptive": true,
+            "pivot": {
+                "x": 0,
+                "y": 0
+            },
+            "rotate_center_painter": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "style_collections": {},
+    "groups": {
+        "32eac34d-ee3f-4268-9d11-378113d57c35": {
+            "id": "32eac34d-ee3f-4268-9d11-378113d57c35",
+            "name": "",
+            "is_fold": false,
+            "is_group": false,
+            "actors": [
+                "a6a2046b-27b2-418e-b88d-30c8070a05b9"
+            ],
+            "scene": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+            "visible": true
+        },
+        "b2416e06-f8a3-45a8-9a96-5e04f6a3218c": {
+            "id": "b2416e06-f8a3-45a8-9a96-5e04f6a3218c",
+            "name": "",
+            "is_fold": false,
+            "is_group": false,
+            "actors": [
+                "a502ba73-658b-4363-aa20-a8f2961d03ad"
+            ],
+            "scene": "b5e60282-a2d1-478b-802d-a30e77d67e6b",
+            "visible": true
+        }
+    },
+    "timer": {}
+}}
