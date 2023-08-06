@@ -13,7 +13,7 @@
 | `(bc)`cellphone         | 暂无                  |
 | pen                     | 画笔                  |
 | advanced                | 是否启用              |
-| ai_lab                  | AI 实验室             |
+| ai_lab                  | 分类 AI               |
 | block_ai_classification | 已弃用                |
 | block_ai_game           | Game AI               |
 | block_hardware_arduino  | Arduino 外接          |
