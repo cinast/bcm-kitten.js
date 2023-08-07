@@ -44,7 +44,7 @@
 | project_name             | 作品名                    | `<String>`                                       |
 | theatre                  | 角色信息(舞台)            | 见 [theatre.md](./theatre.md)                    |
 | variables                | 变量                      | (文档未编写)                                     |
-| variable_order           | 变量代码                  |                                                  |
+| variable_order           | 变量顺序                  |                                                  |
 | cloud_variables          | 云变量                    | (文档未编写)                                     |
 | audio                    | 音乐                      | (文档未编写)                                     |
 | audio_order              | 音乐排序                  | (文档未编写)                                     |
