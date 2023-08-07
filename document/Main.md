@@ -11,7 +11,7 @@
 | `(b4)`codemao_value       | 来源的作品编号            | `<number>`                                       |
 | sample_id                 |                           | `""`                                             |
 | version                   | 文件版本                  | `25`                                             |
-| application_version       | 编辑器版本                | `"4.11.8"`                                       |
+| application_version       | 编辑器版本                | `"4.11.9"`                                       |
 | work_type                 | 作品类型标识              | `"KITTEN"`                                       |
 | size                      | 屏幕长宽                  | `{"width":<number>,"height":<number>}`           |
 | `(?)`type                 | _未知_                    | `1`                                              |
