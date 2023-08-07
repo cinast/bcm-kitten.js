@@ -34,7 +34,7 @@
 
 #### 坐标
 
-> `/variables/<id>/position`
+> `/cloud-_variables/<id>/position`
 
 | 名称               | 介绍                  | 备注 |
 | ------------------ | --------------------- |-----|
