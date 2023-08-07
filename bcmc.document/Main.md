@@ -43,9 +43,9 @@
 | `(?)`type                | _未知_                    | `1`                                              |
 | project_name             | 作品名                    | `<String>`                                       |
 | theatre                  | 角色信息(舞台)            | 见 [theatre.md](./theatre.md)                    |
-| variables                | 变量                      | 见 [variables.md](./variables.md)               |
-| variable_order           | 变量顺序                  |                                                  |
-| cloud_variables          | 云变量                    | (文档未编写)                                     |
+| variables                | 变量与列表                | 见 [variables.md](./variables.md)               |
+| variable_order           | 变量与列表顺序            | 所有变量与列表的uuid集合                          |
+| cloud_variables          | 云变量与列表              | 见 [cloud_variables.md](./cloud_variables.md)   |
 | audio                    | 音乐                      | (文档未编写)                                     |
 | audio_order              | 音乐排序                  | (文档未编写)                                     |
 | midimusic                | MIDI 音乐                 | (文档未编写)                                     |
