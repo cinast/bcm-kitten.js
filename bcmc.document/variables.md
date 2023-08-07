@@ -30,7 +30,7 @@
 | value              | 初始值               | anytype |
 | theme              | 主题                 |        |
 | `?`offset          | `未知`               | object |
-| position           | 显示时的 [坐标](./#### 坐标)      | object |
+| position           | 显示时的 [坐标](####坐标)      | object |
 
 #### 坐标
 
