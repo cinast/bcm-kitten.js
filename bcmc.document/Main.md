@@ -59,7 +59,7 @@
 | is_partial               | 是否发布 _(发布为 false)_ | `true \| false`                                  |
 | `(bc)`compile_result     | 作品编译结果              | (文档未编写)                                     |
 | ai_lab                   | gameAi 数据               | (文档未编写)                                     |
-| `(?)`painter             | 画板中调色板的颜色顺序     | (文档未编写)                                     |
+| `(b4)`painter             | 画板中调色板的颜色顺序     | (文档未编写)                                     |
 | broadcasts               | 广播                      | (文档未编写)                                     |
 | `(bc)`preview            | 作品预览图                | `https//creation.codemao.cn/445/kitten/(base64)` |
-| author_nickname          | 作者名称                  | `<String>`                                       |
+| `(bc)`author_nickname    | 作者名称                  | `<String>`                                       |
