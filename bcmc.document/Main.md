@@ -30,8 +30,8 @@
 
 | 名称                     | 介绍                      | 值                                               |
 | ------------------------ | ------------------------- | ------------------------------------------------ |
-| `(b4)`hidden_toolbox     |                           | `{"toolbox": [],"blocks": []}`                   |
-| `(b4)`work_source_label  |                           | `1`                                              |
+| `(b4 ?)`hidden_toolbox   |                           | `{"toolbox": [],"blocks": []}`                   |
+| `(b4 ?)`work_source_label|                           | `1`                                              |
 | `(b4)`codemao_value      | 来源的作品编号             | `<number>`                                       |
 | sample_id                |                           | `""`                                             |
 | version                  | 文件版本                  | `25`                                             |
