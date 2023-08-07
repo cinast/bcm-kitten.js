@@ -1,4 +1,4 @@
-> _@Document version`Kitten4.11.8`_
+> _@Document version`Kitten4.11.9`_
 
 # bcmc & bcm4 documentation  编程猫编译文件与源码文件文档
 
@@ -43,7 +43,7 @@
 | `(?)`type                | _未知_                    | `1`                                              |
 | project_name             | 作品名                    | `<String>`                                       |
 | theatre                  | 角色信息(舞台)            | 见 [theatre.md](./theatre.md)                    |
-| variables                | 变量                      | (文档未编写)                                     |
+| variables                | 变量                      | 见 [variables.md](.variables/.md)               |
 | variable_order           | 变量顺序                  |                                                  |
 | cloud_variables          | 云变量                    | (文档未编写)                                     |
 | audio                    | 音乐                      | (文档未编写)                                     |
