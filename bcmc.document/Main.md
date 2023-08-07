@@ -47,9 +47,9 @@
 | variable_order           | 变量与列表顺序            | 所有变量与列表的uuid集合                          |
 | cloud_variables          | 云变量与列表              | 见 [cloud_variables.md](./cloud_variables.md)   |
 | audio                    | 音乐                      | (文档未编写)                                     |
-| audio_order              | 音乐排序                  | (文档未编写)                                     |
+| audio_order              | 音乐排序                  | 所有音乐的uuid集合                               |
 | midimusic                | MIDI 音乐                 | (文档未编写)                                     |
-| midi_order               | MIDI 音乐排序             | (文档未编写)                                     |
+| midi_order               | MIDI 音乐排序             | 所有MIDI音乐的uuid集合                           |
 | matrix                   | 分类 AI 模型数据          | (文档未编写)                                     |
 | models                   | 分类 AI 模型信息          |                                                  |
 | toolbox                  | 积木工具盒                | 见 [toolbox.md](./toolbox.md)                    |
